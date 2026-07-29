@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gayang-karaoke-bar-note.mens-esthe.space/sitemap.xml
